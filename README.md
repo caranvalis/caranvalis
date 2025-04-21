@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SAID</h1>
+<h1 align="center">Hi 👋, I'm ZAIM</h1>
 <h3 align="center">A</h3>
 
 - 🔭 I’m currently working on [OCR_IA](git@github.com:caranvalis/OcrIA.git)
